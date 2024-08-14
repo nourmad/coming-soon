@@ -28,7 +28,7 @@ class App extends React.Component {
             <h1>Get ready for the change.</h1>
             <p>Coming soon.</p>
           </div>
-          <a href="mailto:whizihelp@gmail.com">
+          <a href="https://waitfor.xyz/whizi">
             <div className="cta">Email us</div>
           </a>
         </div>
